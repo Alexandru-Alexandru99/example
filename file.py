@@ -6,4 +6,9 @@ def main():
     b=3
     c=a+b
     print(c)
-main
+
+def function1():
+    for i in range(10):
+        print("Abc\n")
+
+main()
