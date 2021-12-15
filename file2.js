@@ -1,5 +1,8 @@
 alert("Hello");
 
-function() {
-    
+function()
+{
+
 }
+
+alert("Hello")
