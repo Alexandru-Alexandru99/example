@@ -11,12 +11,7 @@ def function1():
     for i in range(10):
         print("Abc\n")
 
-def function2():
-    for i in range(10):
-        print("Abc\n")
-
-def function3():
-    for i in range(10):
-        print("Abc\n")
-
 main()
+
+def function213():
+    print("Hello")
