@@ -22,4 +22,6 @@ def funct1():
 def func2():
     print(1+2+3+4+5+6+7)
 
-def function3()
+def function3():
+    for i in range(1000):
+        print("")
