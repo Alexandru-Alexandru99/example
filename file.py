@@ -27,4 +27,6 @@ def function3():
         print("Ana are mere si pere si gutui")
 
 def function4():
-    print("A ")
+    print("A iesit")
+
+main()
