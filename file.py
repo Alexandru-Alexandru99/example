@@ -17,4 +17,4 @@ def function213():
     print("Hello")
 
 def funct1():
-    print
+    print("hello from my s")
