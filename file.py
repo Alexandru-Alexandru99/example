@@ -26,4 +26,4 @@ def function3():
     for i in range(1000):
         print("Ana are mere si pere si gutui")
 
-def
+def function4():
