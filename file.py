@@ -16,4 +16,5 @@ main()
 def function213():
     print("Hello")
 
-def funct
+def funct1():
+    print
