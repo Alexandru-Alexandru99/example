@@ -17,4 +17,9 @@ def function213():
     print("Hello")
 
 def funct1():
-    print("hello from my s")
+    print("hello from my site")
+
+def func2():
+    print(1+2+3+4+5+6+7)
+
+def function3()
