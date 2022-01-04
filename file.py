@@ -34,3 +34,6 @@ def function5():
 
 def function6():
     print("C")
+
+def function7():
+    print 
