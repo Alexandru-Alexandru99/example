@@ -32,4 +32,4 @@ def function4():
 def function5():
     print("B")
 
-def fybction
+def funct()
