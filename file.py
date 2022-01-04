@@ -32,4 +32,5 @@ def function4():
 def function5():
     print("B")
 
-def funct()
+def function6():
+    print("C")
