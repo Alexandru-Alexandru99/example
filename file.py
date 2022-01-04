@@ -38,4 +38,7 @@ def function6():
 def function7():
     print("D"):
 
-def function
+def function9():
+    print("E")
+
+main()
