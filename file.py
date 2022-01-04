@@ -36,4 +36,5 @@ def function6():
     print("C")
 
 def function7():
-    print 
+    print("D"):
+    
