@@ -42,6 +42,6 @@ def function9():
     print("E")
 
 def function10():
-    print
+    print("ABCDEF")
 
 main()
