@@ -42,8 +42,8 @@ def function9():
     print("E")
 
 def function10():
-    print("ABCDEFGHIJ")
+    print
 
-def function11():
-    print 
+def function
+
 main()
