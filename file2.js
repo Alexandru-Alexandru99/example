@@ -20,3 +20,25 @@ if (message !== "") {
             }
         });
 }
+
+function handleEditorDidMount(editor, monaco) {
+    editorRef.current = editor;
+    const r = new monaco.Range(1, 1, 10, 100);
+    //console.log(editor);
+    // editor.deltaDecorations(
+    //     [],
+    //     [
+    //         {
+    //             range: r,
+    //             options: {
+    //                 inlineClassName: "myInlineDecoration",
+    //             },
+    //         },
+    //     ]
+    // );
+}
+
+function handleEditorChange(value, event) {
+    editorRef.current = value;
+    div_code_value[currentDivEditor] = value;
+}
