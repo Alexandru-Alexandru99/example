@@ -4,7 +4,9 @@
 void func() {
     printf("Hello");
     int suma = 0;
-    
+    for(int i = 0;i<100;i++) {
+        suma = sum
+    }
 }
 
 int main()
