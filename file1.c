@@ -2,7 +2,7 @@
 
 
 void func() {
-    print
+    printf("Hello")
 }
 
 int main()
