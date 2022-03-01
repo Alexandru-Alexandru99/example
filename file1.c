@@ -2,7 +2,9 @@
 
 
 void func() {
-    printf("Hello")
+    printf("Hello");
+    int suma = 0;
+    
 }
 
 int main()
