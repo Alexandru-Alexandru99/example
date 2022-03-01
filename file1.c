@@ -1,5 +1,8 @@
 #include <stdio.h>
 
+
+void fun
+
 int main()
 {
     printf("Hello world!\n");
